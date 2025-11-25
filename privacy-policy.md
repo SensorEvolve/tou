@@ -1,7 +1,7 @@
 🛡️ Privacy Policy for Tarot of Us (Minimal Data Collection)
 Last updated: 2025-11-25
 
-We are deeply committed to protecting your privacy. We believe that deep, meaningful connection is best fostered when users feel completely secure.
+Tarot of Us are deeply committed to protecting your privacy. We believe that deep, meaningful connection is best fostered when users feel completely secure.
 
 The core principle of this policy is simple: We do not collect any Personal Identifiable Information (PII) from our users.
 
