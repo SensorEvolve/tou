@@ -1,7 +1,7 @@
-🛡️ Privacy Policy for [App Name] (Minimal Data Collection)
-Last updated: [Date]
+🛡️ Privacy Policy for Tarot of Us (Minimal Data Collection)
+Last updated: 2025-11-25
 
-[Company Name/Developer Name] ("we," "our," or "us") is deeply committed to protecting your privacy. We believe that deep, meaningful connection is best fostered when users feel completely secure.
+We are deeply committed to protecting your privacy. We believe that deep, meaningful connection is best fostered when users feel completely secure.
 
 The core principle of this policy is simple: We do not collect any Personal Identifiable Information (PII) from our users.
 
@@ -51,6 +51,4 @@ We may update this policy to reflect changes in our App's functionality or legal
 8. Contact Us
 If you have any questions regarding this privacy policy, please contact us:
 
-By email: [Your Email Address]
-
-By website: [Your Website URL]
+By email: sensorevolve@gmail.com
